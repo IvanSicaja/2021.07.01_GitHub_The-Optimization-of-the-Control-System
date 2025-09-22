@@ -35,35 +35,41 @@ Arduino Nano, C/C++ (Arduino), Adafruit BNO055, Encoder, DC Motor, PID Control, 
 ### 📸 Project Snapshot
 
 <p align="center">
-  <img src="https://github.com/IvanSicaja/2021.07.01_GitHub_The-Optimization-of-the-Control-System/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_1.png?raw=true" 
-       alt="Control System Optimization Preview 1" 
+  <img src="https://github.com/IvanSicaja/2021.07.01_GitHub_The-Optimization-of-the-Control-System/blob/main/publish/2.0_Thumbnail_1.png?raw=true" 
+       alt="Control System Preview 1" 
        width="640" 
        height="360">
 </p>
 
 <p align="center">
-  <img src="https://github.com/IvanSicaja/2021.07.01_GitHub_The-Optimization-of-the-Control-System/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_2.png?raw=true" 
-       alt="Control System Optimization Preview 2" 
+  <img src="https://github.com/IvanSicaja/2021.07.01_GitHub_The-Optimization-of-the-Control-System/blob/main/publish/2.0_Thumbnail_2.png?raw=true" 
+       alt="Control System Preview 2" 
        width="640" 
        height="360">
 </p>
 
 <p align="center">
-  <img src="https://github.com/IvanSicaja/2021.07.01_GitHub_The-Optimization-of-the-Control-System/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_3.png?raw=true" 
-       alt="Control System Optimization Preview 3" 
+  <img src="https://github.com/IvanSicaja/2021.07.01_GitHub_The-Optimization-of-the-Control-System/blob/main/publish/2.0_Thumbnail_3.png?raw=true" 
+       alt="Control System Preview 3" 
        width="640" 
        height="360">
 </p>
 
-
 <p align="center">
-  <img src="https://github.com/IvanSicaja/2021.07.01_GitHub_The-Optimization-of-the-Control-System/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_4.png?raw=true" 
-       alt="Control System Optimization Preview 3" 
+  <img src="https://github.com/IvanSicaja/2021.07.01_GitHub_The-Optimization-of-the-Control-System/blob/main/publish/2.0_Thumbnail_4.png?raw=true" 
+       alt="Control System Preview 4" 
        width="640" 
-       height="1000">
+       height="360">
 </p>
 
 ---
+
+### 🎥 Video Demonstration
+
+Not available.
+
+---
+
 
 ### 🎥 Video Demonstration
 
