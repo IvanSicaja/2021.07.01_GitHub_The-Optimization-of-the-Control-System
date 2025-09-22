@@ -70,19 +70,5 @@ Not available.
 
 ---
 
-
-### 🎥 Video Demonstration
-
-Not available.
-
----
-
-
-### 🎥 Video Demonstration
-
-Not available.
-
----
-
 📣 **Hashtags Section**  
 \# #Arduino #PID #DCMotor #Automation #ControlSystems #EmbeddedSystems #Sensors #Electronics #Innovation
