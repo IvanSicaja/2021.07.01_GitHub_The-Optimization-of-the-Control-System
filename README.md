@@ -59,7 +59,7 @@ Arduino Nano, C/C++ (Arduino), Adafruit BNO055, Encoder, DC Motor, PID Control, 
   <img src="https://github.com/IvanSicaja/2021.07.01_GitHub_The-Optimization-of-the-Control-System/blob/main/publish/2.0_Thumbnail_4.png?raw=true" 
        alt="Control System Preview 4" 
        width="640" 
-       height="360">
+       height="1000">
 </p>
 
 ---
